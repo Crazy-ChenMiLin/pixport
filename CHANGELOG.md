@@ -4,7 +4,7 @@ Newest first.
 
 ## Unreleased
 
-- Read 24-bit floating-point DNG samples, including Deflate data with floating-point predictors.
+- **Added: 24-bit floating-point DNG samples are read**, uncompressed or Deflate, with or without the floating-point predictors, in either byte order, from strips or tiles. Contributed by [@jonhsmi](https://github.com/jonhsmi) in [#8](https://github.com/puretechteam/pixport/pull/8).
 
 ## 2026-11-12: pixport 0.2.0, a pixel budget, neutral HDR colours, faster RAW and a hardening pass
 
